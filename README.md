@@ -5,4 +5,4 @@
 # Study ✍
 [TIL](github.com/dogfish000/TIL)
 <br/>
-[Algorithm](github.com/dogfish000/Algorithm)
+[Algorithm](https://github.com/dogfish000/Algorithm)
